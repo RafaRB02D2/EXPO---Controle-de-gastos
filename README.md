@@ -71,26 +71,3 @@ Adicionar mais gastos
 Reiniciar com outro usuário
 
 Encerrar o programa
-
-📊 Exemplo de Uso
-Nome do usuário: Rafael
-Receita mensal: 3000
-
-Com o que é gasto: Aluguel
-Quantas vezes você gasta com isso no mês?: 1
-Valor gasto por cada vez: 1200
-
---- Resultado ---
-Usuário: Rafael
-Receita: R$ 3000,00
-Gasto lançado: Aluguel = R$ 1200,00
-Análise: Gasto aceitável. Essencial para o dia a dia.
-Total gasto até agora: R$ 1200,00
-Percentual do total gasto sobre a receita: 40,00%
-Saldo restante: R$ 1800,00
-
-O que deseja fazer agora?
-1 - Continuar adicionando gastos
-2 - Reiniciar com outro usuário
-3 - Encerrar programa
-Escolha:
