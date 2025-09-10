@@ -28,18 +28,6 @@ Alerta se os gastos ultrapassarem 70% da receita mensal.
 
 Sugestões de como reduzir despesas e planejar melhor as finanças.
 
-🗂 Estrutura do Projeto
-EXPO-CONTROLEDEGASTOS
-│── src/
-│   └── main/com/SCG/
-│       ├── app/
-│       │   └── Main.java         # Classe principal com a lógica do programa
-│       ├── model/
-│       │   ├── Usuario.java      # Representa o usuário (nome e receita)
-│       │   └── Gasto.java        # Representa um gasto (nome e valor)
-│       └── util/
-│           └── Validacoes.java   # Regras de validação/classificação dos gastos
-
 🛠 Tecnologias Utilizadas
 
 Java SE 8+
