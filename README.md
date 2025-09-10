@@ -36,28 +36,6 @@ Scanner (java.util.Scanner) para entrada de dados via terminal
 
 Programação orientada a objetos (POO)
 
-▶️ Como Executar o Projeto
-1. Pré-requisitos
-
-Instalar o Java JDK 8+
-
-Configurar o PATH do Java no sistema
-
-Ter uma IDE (ex: VS Code, IntelliJ IDEA, Eclipse) ou compilar pelo terminal
-
-2. Clonar o repositório
-git clone https://github.com/seu-usuario/controle-de-gastos-java.git
-cd controle-de-gastos-java
-
-3. Compilar o projeto
-
-No diretório src, execute:
-
-javac main/com/SCG/app/Main.java
-
-4. Executar o programa
-java main.com.SCG.app.Main
-
 🔄 Fluxo do Programa
 
 O usuário informa:
